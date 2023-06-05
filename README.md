@@ -9,6 +9,6 @@ A Simple Navigation Android App developed using Jetpack Compose (Kotlin).
 
 **FUTURE WORK**
 
-1. UI improvements.
+1. UI Improvements.
 2. Different Android Permissions.
 3. Code Compression.
